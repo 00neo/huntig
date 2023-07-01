@@ -1,1 +1,1 @@
-# huntig
+# hunti
