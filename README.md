@@ -1,1 +1,1 @@
-# hunti
+# hunting
